@@ -3,11 +3,11 @@
         "name": "Garden of Flower",	
 	"uniques": ["[+15]% Great Person generation [in this city]", 
 		    "[+3 Food] [in this city]",
-	            "[+10]% growth [in this city]"],
+	            "[+10]% [Food] [in this city]"],
 	"replaces": "Garden",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"hurryCostModifier": 25,
 	"maintenance": 1,
-	"requiredTech": "Theology"
+	"requiredTech": "Agriculture"
  },
 ]
