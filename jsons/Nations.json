@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+	"name": "Rabbit Warrior Tribe",
+	"leaderName": "Tyuule",
+	"adjective": ["WarriorBunny"],
+	"startBias": ["Forest"],
+	"preferredVictoryType": "Domination",
+	
+	"startIntroPart1": "¡Somos guerras con honor",
+	"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+	"declaringWar": "Sabemos de tus intenciones, preparate para la batalla!",
+	"attacked": "¡Que los dioses decidan este encuentro!",
+	"defeated": "Me entrego a ti en cuerpo y alma, pero deja a mi gente en paz.",
+	"introduction": "Somos guerreras, no salvajes, te respetaremos hasta donde tu decidas respetarnos a nosotras.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+	"neutralHello": "Bienvenido a nuestra tierra.",
+	"neutralLetsHearIt": ["¿Qué deseas discutir?.","Estoy escuchando.","Dime lo que piensas."],
+	"neutralNo": ["No podemos aceptar.","Me temo que no.","Me temo que no."],
+	"neutralYes": ["Aceptamos tu propuesta.","Eso suena justo.","Estamos de acuerdo."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+	"hateHello": "No eres bienvenido aquí.",
+	"hateLetsHearIt": ["¿Qué excusas traes ahora?","Dime, traidor.","¿Qué intentas conseguir?"],
+	"hateNo": ["Nunca.","Ni lo sueñes.","Eso no sucederá."],
+	"hateYes": ["Aceptamos, pero no confíes.","Sólo por esta vez.","Que así sea, por ahora."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+	"afterPeace": "Aunque hemos hecho las paces, no olvidaremos tus acciones pasadas. Caminemos con cautela en esta tregua.",
+	"tradeRequest": "Proponemos un intercambio que beneficiará a ambas partes. Considera nuestra oferta cuidadosamente, ya que podría fortalecer nuestros lazos.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	"outerColor": [42,47,94],
+	"innerColor": [74,83,166],
+	"uniqueName": "Dolor y venganza",
+	"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
+	"cities": ["Lapine", "Ebura", "Leporida", "Warrenvale","Bunborough","Harengon","Thumperton","Fluffington","Burrowfield",
+			"Cottontail","Harewood","Leveret","Bunnyborough","Cloverfield","Moonshadow","Thumpstead","Dewsbury","Thistledown",
+			"Nibbleshire","Briarpatch","Whiskerwood","Hopdale","Twitchbury","Brambleton","Pawton","Springtail","Fernhollow",
+			"Hopperton","Cottontown","Meadowbrook","Warrenburg", "Cloverhill","Dewpoint", "Brambleshire", "Willowburrow"]
+	},
 ]
