@@ -27,8 +27,8 @@
 	"afterPeace": "Aunque hemos hecho las paces, no olvidaremos tus acciones pasadas. Caminemos con cautela en esta tregua.",
 	"tradeRequest": "Proponemos un intercambio que beneficiará a ambas partes. Considera nuestra oferta cuidadosamente, ya que podría fortalecer nuestros lazos.",
 
-	"outerColor": [42,47,94],
-	"innerColor": [74,83,166],
+	"outre Color": [33, 37, 75],
+	"inner Color": [110, 117, 183],
 	"uniqueName": "Dolor y venganza",
 	"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
 	"cities": ["Lapine", "Ebura", "Leporida", "Warrenvale","Bunborough","Harengon","Thumperton","Fluffington","Burrowfield",
