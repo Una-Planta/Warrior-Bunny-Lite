@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Tyuule",
+		"preferredVictoryType": "Domination",
+		"culture": 6,
+		"faith": 3,
+		"food": 6,
+		"gold": 8,
+		"happiness": 6,
+		"production": 8,
+		"science": 5,
+		"military": 10,
+                "priorities": {
+	"Tradition": 2,
+	"Liberty": 4,
+	"Honor": 8,
+	"Piety": 2,
+	"Aesthetics": 1,
+	"Patronage": 2,
+	"Commerce": 6,
+	"Exploration": 4,
+	"Rationalism": 2,
+	"Freedom": 6,
+	"Autocracy": 10,
+	"Order": 7,
+		},
+		"civilopediaText": [
+			{
+				"text": "Tyuule es la líder decidida y estratega de las Guerreras Conejas, enfocada en la resistencia y la conquista para proteger a su gente. Bajo su mando, la civilización de las Guerreras Conejas lucha ferozmente contra cualquier amenaza, buscando siempre la supremacía militar y territorial."
+			},
+		],
+	},
+]
