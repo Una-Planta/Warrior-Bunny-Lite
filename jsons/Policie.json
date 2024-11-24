@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Warrior Bunny",
+    "uniqueTo": "Rabbit Warrior Tribe",
+    "era": "Ancient era",
+    "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 40,
+            "Scientific": 0,
+      },
+        "uniques": [
+          "New [Military] units start with [15] Experience [in all cities]",
+          "[+2 Food] from every [Garden of Flower]",
+           "Only available <for [Rabbit Warrior Tribe] Civilizations>"
+          
+        ],
+        "policies": [
+            {
+                "name": "Rencor",
+                "uniques": ["[+2 Culture] from every [Garden of Flower]",
+                  "[+15]% Strength <for [Wounded] units>"],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Contra el imperio",
+                "uniques": ["[+2 Production] from every [Garden of Flower]",
+                    "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
+                  
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Ida y Vuelta",
+                "uniques": ["[+2 Faith] from every [Garden of Flower]",
+                  "[Ranged Gunpowder] units gain the [Ida y Vuelta] promotion",
+                  "[Archery] units gain the [Ida y Vuelta] promotion"
+                ],
+                "requires": ["Rencor"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Muerte del principe",
+                "uniques": ["[+2 Happiness] from every [Garden of Flower]",
+                  "[+2 Happiness] [in all cities]", "[+5 Happiness] [in Capital]"],
+                "requires": ["Contra el imperio"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Paz Post Guerra",
+                "uniques": ["[+4 Science] from every [Garden of Flower]",
+                 "[+10]% growth [in all cities]", "[+20]% growth [in Capital]"
+                ],
+                "requires": ["Ida y Vuelta", "Muerte del principe"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Warrior Bunny Complete",
+                "uniques": [
+                  "[+1] Movement <for [Sword] units>",
+                  "[+1] Movement <for [Gunpowder] units>"
+                ]
+            }
+        ]
+    },
+]
