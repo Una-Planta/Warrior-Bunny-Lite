@@ -20,7 +20,7 @@
             {
                 "name": "Rencor",
                 "uniques": ["[+2 Culture] from every [Garden of Flower]",
-                  "[+15]% Strength <for [Wounded] units>"],
+                  "[+10]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 2
             },
@@ -46,7 +46,7 @@
             {
                 "name": "Muerte del principe",
                 "uniques": ["[+2 Happiness] from every [Garden of Flower]",
-                  "[+2 Happiness] [in all cities]", "[+5 Happiness] [in capital]"],
+                  "[+2 Happiness] [in all cities]", "[+7 Happiness] [in capital]"],
                 "requires": ["Contra el imperio"],
                 "row": 2,
                 "column": 4
@@ -54,7 +54,7 @@
             {
                 "name": "Paz Post Guerra",
                 "uniques": ["[+4 Science] from every [Garden of Flower]",
-                 "[+10]% [Food] [in all cities]", "[+20]% [Food] [in capital]"
+                 "[+20]% [Food] [in capital]"
                 ],
                 "requires": ["Ida y Vuelta", "Muerte del principe"],
                 "row": 3,
