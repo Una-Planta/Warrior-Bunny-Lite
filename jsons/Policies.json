@@ -38,7 +38,6 @@
                 "uniques": ["[+2 Food] from every [Garden of Flower]",
                   "Gain an extra spy", "[+25]% spy effectiveness [in enemy cities]"
                 ],
-                "requires": ["Rencor"],
                 "row": 1,
                 "column": 5
             },
