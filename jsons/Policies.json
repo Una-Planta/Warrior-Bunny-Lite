@@ -41,11 +41,22 @@
                 "row": 1,
                 "column": 5
             },
+           {
+             "name": "Espionaje Intenso",
+             "uniques": [  "[+2 Culture] from every [Garden of Flower]",
+               "New spies start with [1] level(s)",
+            "Promotes all spies [1] time(s)",
+            "Gain an extra spy",
+             ],
+             "requires": ["Contra el imperio", "Espionaje"],
+                "row": 2,
+                "column": 5
+           },
             {
                 "name": "Muerte del principe",
                 "uniques": ["[+2 Happiness] from every [Garden of Flower]",
                   "[+2 Happiness] [in all cities]", "[+7 Happiness] [in capital]"],
-                "requires": ["Contra el imperio", "Rencor"],
+                "requires": ["Contra el imperio", "Rencor", "Espionaje"],
                 "row": 2,
                 "column": 3
             },
@@ -53,9 +64,9 @@
                 "name": "Honor del Clan",
                 "uniques": ["[+2 Happiness] from every [Garden of Flower]",
                 "[+25]% XP gained from combat <for [Military] units>"],
-                "requires": ["Contra el imperio", "Espionaje"],
+                "requires": ["Contra el imperio", "Rencor"],
                 "row": 2,
-                "column": 5
+                "column": 1
             },
             {
                 "name": "Paz Post Guerra",
