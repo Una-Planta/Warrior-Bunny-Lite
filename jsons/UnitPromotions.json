@@ -2,7 +2,7 @@
   // Melee
   {
     "name": "[Warrior Bunny] ability",
-    "uniques": ["[+1] Sight"],
+    "uniques": ["[+1] Sight", "Can move after attacking"],
   },
   {
     "name": "Ida y Vuelta",
