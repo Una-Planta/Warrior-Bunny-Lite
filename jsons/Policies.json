@@ -12,21 +12,21 @@
       },
         "uniques": [
           "New [Military] units start with [15] Experience [in all cities]",
-          "[+2 Faith] from every [Garden of Flower]",
+          "[+4 Faith] from every [Garden of Flower]",
            "Only available <for [Rabbit Warrior Tribe] Civilizations>"
           
         ],
         "policies": [
             {
                 "name": "Rencor",
-                "uniques": ["[+2 Culture] from every [Garden of Flower]",
+                "uniques": ["[+4 Culture] from every [Garden of Flower]",
                   "[+10]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Contra el imperio",
-                "uniques": ["[+2 Production] from every [Garden of Flower]",
+                "uniques": ["[+4 Production] from every [Garden of Flower]",
                     "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
                   
                 ],
@@ -35,7 +35,7 @@
             },
             {
                 "name": "Espionaje",
-                "uniques": ["[+2 Food] from every [Garden of Flower]",
+                "uniques": ["[+3 Food] from every [Garden of Flower]",
                   "Gain an extra spy", "[+25]% spy effectiveness [in enemy cities]"
                 ],
                 "row": 1,
@@ -52,7 +52,7 @@
             {
                 "name": "Honor del Clan",
                 "uniques": ["[+2 Happiness] from every [Garden of Flower]",
-                "[+20]% XP gained from combat <for [Military] units>"],
+                "[+25]% XP gained from combat <for [Military] units>"],
                 "requires": ["Contra el imperio", "Espionaje"],
                 "row": 2,
                 "column": 5
@@ -68,7 +68,7 @@
             },
             {
                 "name": "Warrior Bunny Complete",
-                "uniques": [
+                "uniques": [ "[+4 Culture] from every [Garden of Flower]",
                   "[+1] Movement <for [Sword] units>",
                   "[+1] Movement <for [Gunpowder] units>"
                 ]
