@@ -19,14 +19,14 @@
         "policies": [
             {
                 "name": "Rencor",
-                "uniques": ["[+4 Culture] from every [Garden of Flower]",
+                "uniques": ["[+3 Culture] from every [Garden of Flower]",
                   "[+10]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Contra el imperio",
-                "uniques": ["[+4 Production] from every [Garden of Flower]",
+                "uniques": ["[+2 Production] from every [Garden of Flower]",
                     "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
                   
                 ],
@@ -70,8 +70,9 @@
             },
             {
                 "name": "Paz Post Guerra",
-                "uniques": ["[+4 Science] from every [Garden of Flower]",
-                 "[+20]% [Food] [in capital]"
+                "uniques": ["[+3 Science] from every [Garden of Flower]",
+                  "[+20]% growth [in all cities]",
+                 "[+15]% [Food] [in capital]"
                 ],
                 "requires": ["Muerte del principe", "Honor del Clan"],
                 "row": 3,
