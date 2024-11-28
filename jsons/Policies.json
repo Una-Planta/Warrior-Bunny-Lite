@@ -27,8 +27,8 @@
             {
                 "name": "Contra el imperio",
                 "uniques": ["[+2 Production] from every [Garden of Flower]",
-                    "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
-                  
+                  "[-10]% City-State Influence degradation",
+                    "[+25]% spy effectiveness [in City-State cities]"                  
                 ],
                 "row": 1,
                 "column": 3
