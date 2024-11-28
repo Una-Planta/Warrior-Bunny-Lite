@@ -39,8 +39,7 @@
             {
                 "name": "Espionaje",
                 "uniques": ["[+3 Food] from every [Garden of Flower]",
-                  "Gain an extra spy", "[+20]% spy effectiveness [in foreign cities]",
-                  "Gain an extra spy"
+                  "Gain an extra spy", "[+20]% spy effectiveness [in foreign cities]"
                 ],
                 "row": 1,
                 "column": 5
