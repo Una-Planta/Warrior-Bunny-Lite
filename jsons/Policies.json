@@ -12,7 +12,7 @@
       },
         "uniques": [
           "New [Military] units start with [15] Experience [in all cities]",
-          "[+4 Faith] from every [Garden of Flower]",
+          "[+5 Faith] from every [Garden of Flower]",
            "Only available <for [Rabbit Warrior Tribe] Civilizations>"
           
         ],
@@ -36,7 +36,7 @@
             {
                 "name": "Espionaje",
                 "uniques": ["[+3 Food] from every [Garden of Flower]",
-                  "Gain an extra spy", "[+25]% spy effectiveness [in enemy cities]"
+                  "Gain an extra spy", "[+20]% spy effectiveness [in foreign cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -70,9 +70,9 @@
             },
             {
                 "name": "Paz Post Guerra",
-                "uniques": ["[+3 Science] from every [Garden of Flower]",
-                  "[+20]% growth [in all cities]",
-                 "[+15]% [Food] [in capital]"
+                "uniques": [
+                  "[+15]% growth [in all cities]",
+                 "[+10]% [Food] [in capital]"
                 ],
                 "requires": ["Muerte del principe", "Honor del Clan"],
                 "row": 3,
