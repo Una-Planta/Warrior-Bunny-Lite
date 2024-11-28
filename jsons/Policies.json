@@ -29,7 +29,8 @@
                 "name": "Contra el imperio",
                 "uniques": ["[+2 Production] from every [Garden of Flower]",
                   "[-10]% City-State Influence degradation",
-                    "[+25]% spy effectiveness [in City-State cities]"                  
+                    "[+25]% spy effectiveness [in City-State cities]",
+                  "Gain an extra spy <starting from the [Renaissance era]"
                 ],
                 "row": 1,
                 "column": 3
@@ -37,7 +38,8 @@
             {
                 "name": "Espionaje",
                 "uniques": ["[+3 Food] from every [Garden of Flower]",
-                  "Gain an extra spy", "[+20]% spy effectiveness [in foreign cities]"
+                  "Gain an extra spy", "[+20]% spy effectiveness [in foreign cities]",
+                  "Gain an extra spy <starting from the [Renaissance era]"
                 ],
                 "row": 1,
                 "column": 5
