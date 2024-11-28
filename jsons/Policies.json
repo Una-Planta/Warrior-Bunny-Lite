@@ -1,4 +1,4 @@
-[
+t[
   {
     "name": "Warrior Bunny",
     "uniqueTo": "Rabbit Warrior Tribe",
@@ -85,7 +85,7 @@
                 "uniques": [ "[+3 Gold] from every [Garden of Flower]",
                   "[+1] Movement <for [Sword] units>",
                   "[+1] Movement <for [Gunpowder] units>",
-                  "Militaristic City-States grant units [2] times as fast when you are at war with a common nationMilitaristic City-States grant units [3] times as fast when you are at war with a common nation"
+                  "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
                 ]
             }
         ]
