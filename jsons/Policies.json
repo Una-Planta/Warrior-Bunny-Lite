@@ -43,7 +43,7 @@
             },
            {
              "name": "Espionaje Intenso",
-             "uniques": [  "[+2 Production] from every [Garden of Flower]",
+             "uniques": [ 
                "New spies start with [1] level(s)",
             "Promotes all spies [1] time(s)",
             "Gain an extra spy",
@@ -63,6 +63,7 @@
             {
                 "name": "Honor del Clan",
                 "uniques": ["[+2 Happiness] from every [Garden of Flower]",
+                  "Allied City-States provide [Culture] equal to [200]% of what they produce for themselves",
                 "[+25]% XP gained from combat <for [Military] units>"],
                 "requires": ["Contra el imperio", "Rencor"],
                 "row": 2,
