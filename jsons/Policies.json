@@ -73,8 +73,8 @@
             {
                 "name": "Paz Post Guerra",
                 "uniques": [
-                  "[+15]% growth [in all cities]",
-                 "[+10]% [Food] [in capital]"
+                  "[+15]% growth [in all cities] <when not at war>",
+                 "[+10]% [Food] [in capital] <when not at war>"
                 ],
                 "requires": ["Muerte del principe", "Honor del Clan"],
                 "row": 3,
